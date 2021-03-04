@@ -1,0 +1,5 @@
+mongo:
+  db:
+    name: person-register-test
+    url: localhost
+    port: 12345

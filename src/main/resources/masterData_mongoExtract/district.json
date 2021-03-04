@@ -1,0 +1,548 @@
+[
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc7d"
+    },
+    "code": "103",
+    "description": {
+      "en": "KALUTHARA",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "1",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T08:52:00Z"
+    },
+    "modifiedBy": "IILPRS",
+    "modifiedDate": {
+      "$date": "2014-02-03T08:55:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc7e"
+    },
+    "code": "201",
+    "description": {
+      "en": "KANDY",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "2",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T08:53:00Z"
+    },
+    "modifiedBy": "",
+    "modifiedDate": {
+      "$date": "1970-01-01T00:00:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc7f"
+    },
+    "code": "102",
+    "description": {
+      "en": "GAMPAHA",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "1",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T08:53:00Z"
+    },
+    "modifiedBy": "",
+    "modifiedDate": {
+      "$date": "1970-01-01T00:00:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc80"
+    },
+    "code": "202",
+    "description": {
+      "en": "MATALE",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "2",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T08:54:00Z"
+    },
+    "modifiedBy": "IILPRS",
+    "modifiedDate": {
+      "$date": "2014-02-07T06:10:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc81"
+    },
+    "code": "203",
+    "description": {
+      "en": "NUWARA ELIYA",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "2",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T08:54:00Z"
+    },
+    "modifiedBy": "",
+    "modifiedDate": {
+      "$date": "1970-01-01T00:00:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc82"
+    },
+    "code": "301",
+    "description": {
+      "en": "GALLE",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "3",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T08:55:00Z"
+    },
+    "modifiedBy": "",
+    "modifiedDate": {
+      "$date": "1970-01-01T00:00:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc83"
+    },
+    "code": "302",
+    "description": {
+      "en": "MATARA",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "3",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T08:55:00Z"
+    },
+    "modifiedBy": "",
+    "modifiedDate": {
+      "$date": "1970-01-01T00:00:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc84"
+    },
+    "code": "303",
+    "description": {
+      "en": "HAMBANTOTA",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "3",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T08:55:00Z"
+    },
+    "modifiedBy": "",
+    "modifiedDate": {
+      "$date": "1970-01-01T00:00:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc85"
+    },
+    "code": "401",
+    "description": {
+      "en": "JAFFNA",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "4",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T08:57:00Z"
+    },
+    "modifiedBy": "",
+    "modifiedDate": {
+      "$date": "1970-01-01T00:00:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc86"
+    },
+    "code": "402",
+    "description": {
+      "en": "MANNAR",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "4",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T08:58:00Z"
+    },
+    "modifiedBy": "IILPRS",
+    "modifiedDate": {
+      "$date": "2014-02-07T09:31:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc87"
+    },
+    "code": "403",
+    "description": {
+      "en": "VAVUNIYA",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "4",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T08:58:00Z"
+    },
+    "modifiedBy": "IILPRS",
+    "modifiedDate": {
+      "$date": "2017-04-28T06:52:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc88"
+    },
+    "code": "404",
+    "description": {
+      "en": "MULLATIVU",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "4",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T08:58:00Z"
+    },
+    "modifiedBy": "IILPRS",
+    "modifiedDate": {
+      "$date": "2017-05-04T06:51:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc89"
+    },
+    "code": "405",
+    "description": {
+      "en": "KILLINOCHCHI",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "4",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T08:59:00Z"
+    },
+    "modifiedBy": "",
+    "modifiedDate": {
+      "$date": "1970-01-01T00:00:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc8a"
+    },
+    "code": "101",
+    "description": {
+      "en": "COLOMBO",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "1",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T08:50:00Z"
+    },
+    "modifiedBy": "",
+    "modifiedDate": {
+      "$date": "1970-01-01T00:00:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc8b"
+    },
+    "code": "501",
+    "description": {
+      "en": "BATTICALOA",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "5",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T09:03:00Z"
+    },
+    "modifiedBy": "",
+    "modifiedDate": {
+      "$date": "1970-01-01T00:00:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc8c"
+    },
+    "code": "503",
+    "description": {
+      "en": "TRINCOMALEE",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "5",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T09:04:00Z"
+    },
+    "modifiedBy": "",
+    "modifiedDate": {
+      "$date": "1970-01-01T00:00:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc8d"
+    },
+    "code": "502",
+    "description": {
+      "en": "AMPARA",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "5",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T09:04:00Z"
+    },
+    "modifiedBy": "",
+    "modifiedDate": {
+      "$date": "1970-01-01T00:00:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc8e"
+    },
+    "code": "601",
+    "description": {
+      "en": "KURUNEGALA",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "6",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T09:05:00Z"
+    },
+    "modifiedBy": "",
+    "modifiedDate": {
+      "$date": "1970-01-01T00:00:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc8f"
+    },
+    "code": "602",
+    "description": {
+      "en": "PUTTALAM",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "6",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T09:06:00Z"
+    },
+    "modifiedBy": "IILPRS",
+    "modifiedDate": {
+      "$date": "2014-02-07T09:31:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc90"
+    },
+    "code": "701",
+    "description": {
+      "en": "ANURADHAPURA",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "7",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T09:07:00Z"
+    },
+    "modifiedBy": "",
+    "modifiedDate": {
+      "$date": "1970-01-01T00:00:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc91"
+    },
+    "code": "702",
+    "description": {
+      "en": "POLONNARUWA",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "7",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T09:08:00Z"
+    },
+    "modifiedBy": "IILPRS",
+    "modifiedDate": {
+      "$date": "2014-02-03T08:53:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc92"
+    },
+    "code": "801",
+    "description": {
+      "en": "BADULLA",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "8",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T09:09:00Z"
+    },
+    "modifiedBy": "",
+    "modifiedDate": {
+      "$date": "1970-01-01T00:00:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc93"
+    },
+    "code": "802",
+    "description": {
+      "en": "MONARAGALA",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "8",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T09:13:00Z"
+    },
+    "modifiedBy": "",
+    "modifiedDate": {
+      "$date": "1970-01-01T00:00:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc94"
+    },
+    "code": "901",
+    "description": {
+      "en": "RATNAPURA",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "9",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T09:11:00Z"
+    },
+    "modifiedBy": "",
+    "modifiedDate": {
+      "$date": "1970-01-01T00:00:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc95"
+    },
+    "code": "902",
+    "description": {
+      "en": "KEGALLE",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "9",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2013-11-12T09:14:00Z"
+    },
+    "modifiedBy": "",
+    "modifiedDate": {
+      "$date": "1970-01-01T00:00:00Z"
+    },
+    "lifeCode": ""
+  },
+  {
+    "_id": {
+      "$oid": "602cbd33c23069034c12dc96"
+    },
+    "code": "0",
+    "description": {
+      "en": "OUTSIDE OF SRI LANKA",
+      "si": "",
+      "ta": ""
+    },
+    "provinceCode": "",
+    "createdBy": "IILPRS",
+    "createdDate": {
+      "$date": "2015-05-22T08:01:00Z"
+    },
+    "modifiedBy": "",
+    "modifiedDate": {
+      "$date": "1970-01-01T00:00:00Z"
+    },
+    "lifeCode": ""
+  }
+]
