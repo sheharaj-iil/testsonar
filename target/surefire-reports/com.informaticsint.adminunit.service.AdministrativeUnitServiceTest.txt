@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.informaticsint.adminunit.service.AdministrativeUnitServiceTest
--------------------------------------------------------------------------------
-Tests run: 36, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.222 s - in com.informaticsint.adminunit.service.AdministrativeUnitServiceTest
